@@ -48,6 +48,3 @@ List = [fiesta, ranger, mustang].
 List = [(sedan, 2021, corolla)] ;
 List = [(suv, 2023, hilux)] ;
 List = [(suv, 2022, rav4)].
-
-## 🎥 Video Explicativo
-Un video demostrativo del funcionamiento del proyecto está disponible en el siguiente enlace: https://youtu.be/0Q8yTfXySSM
